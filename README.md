@@ -61,4 +61,6 @@ init();
 ## Challenge - Modules
 Now that you have had a chance to work with modules, FORK your GitSub project to your own Github account and make the connections locally.
 
+Use the webpack template to start and copy all of your code over into the new repo you created from the template.
+
 Try modularizing that code and see how far you can get.
